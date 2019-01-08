@@ -7,22 +7,22 @@
     </url>
     
     <url>
-        <loc>https://ironkee.github.io/tags/</loc>
-        <lastmod>2019-01-08T08:03:29.573Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>https://ironkee.github.io/about/</loc>
-        <lastmod>2019-01-08T08:03:27.021Z</lastmod>
+        <lastmod>2019-01-08T10:45:58.924Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://ironkee.github.io/archive/</loc>
-        <lastmod>2019-01-08T08:03:24.332Z</lastmod>
+        <lastmod>2019-01-08T09:18:46.609Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://ironkee.github.io/tags/</loc>
+        <lastmod>2019-01-08T09:17:40.239Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
